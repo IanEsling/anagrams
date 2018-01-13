@@ -4,3 +4,4 @@ target/
 .mvn/
 .DS_Store
 mvnw*
+*.md

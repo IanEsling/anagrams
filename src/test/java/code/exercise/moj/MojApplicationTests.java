@@ -11,6 +11,7 @@ public class MojApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		//this just tests app startup and Spring wiring doesn't throw any exceptions
 	}
 
 }
